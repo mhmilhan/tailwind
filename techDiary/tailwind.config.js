@@ -10,7 +10,8 @@ module.exports = {
       background: "d3d9d4",
       text: "#333333",
       gray: "#2E3944",
-      black: "#212A31",
+      black: "#000000",
+      blackLike: "#212A31",
       white: "#FFFFFF",
       whiteLike: "#f4f4f5",
       // Add dark theme colors here
@@ -21,8 +22,9 @@ module.exports = {
       darkAccent: "#9e9e9e",
     },
     fontFamily: {
-      title: ["Merriweather", "sans-serif"],
+      brand: ["Merriweather", "sans-serif"],
       heading: ["Playfair", "sans-serif"],
+      title: ["Open Sans", "sans-serif"],
       body: ["Lora", "sans-serif"],
     },
     extend: {},
