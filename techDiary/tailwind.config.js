@@ -23,7 +23,7 @@ module.exports = {
     },
     fontFamily: {
       brand: ["Merriweather", "sans-serif"],
-      heading: ["Playfair", "sans-serif"],
+      subHeading: ["Playfair", "sans-serif"],
       title: ["Open Sans", "sans-serif"],
       body: ["Lora", "sans-serif"],
     },
